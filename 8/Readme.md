@@ -15,3 +15,11 @@
 <img  src="https://raw.githubusercontent.com/hasanyurdakul/RABBITMQ_NOTLARI/main/8/images/consumer.png"  />
 
 </p>
+
+### Davranış
+
+<p  align="center">
+
+<img  src="https://raw.githubusercontent.com/hasanyurdakul/RABBITMQ_NOTLARI/main/8/images/davranis.png"  />
+
+</p>
